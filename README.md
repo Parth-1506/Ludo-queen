@@ -1,5 +1,5 @@
 # Play Ludo Game Online
-# 🎲 Ludo Mania
+# 🎲 Ludo Queen
 
 A modern web-based implementation of the classic **Ludo** board game built using **HTML, CSS, JavaScript, and jQuery**. The game offers an interactive multiplayer experience with smooth animations, sound effects, and responsive gameplay directly in the browser.
 
